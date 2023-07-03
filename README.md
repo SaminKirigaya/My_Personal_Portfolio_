@@ -1,7 +1,7 @@
 
 # Advanced Latest Personal Portfolio Design 
 
-The whole project is created to make a personal portfolio web page ( Complete 300-4k response ) according to the latest Bootstrap and Js.
+The whole project is created to make a personal portfolio web page ( Complete 300px-4k responsive ) according to the latest Bootstrap and Js.
 You can use it if you like just mail me and give credit kindly also change my image to your.
 
 ## Page URL
