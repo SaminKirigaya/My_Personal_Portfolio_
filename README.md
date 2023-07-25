@@ -14,6 +14,7 @@ You can use it if you like just mail me and give credit kindly also change my im
 ![Samin Arnob - Google Chrome 7_3_2023 11_16_00 PM](https://github.com/SaminKirigaya/My_Personal_Portfolio_.github.io/assets/104618775/52dbe1b5-e88b-4041-9ab4-045f1d9645cc)
 ![Samin Arnob - Google Chrome 7_3_2023 11_16_08 PM](https://github.com/SaminKirigaya/My_Personal_Portfolio_.github.io/assets/104618775/82cb1362-fe78-4f08-a730-1b57c432138b)
 ![Samin Arnob - Google Chrome 7_3_2023 11_16_15 PM](https://github.com/SaminKirigaya/My_Personal_Portfolio_.github.io/assets/104618775/830379c1-9b17-455c-b876-8da37e79fa1c)
+![Samin Arnob - Google Chrome 7_25_2023 7_21_22 PM](https://github.com/SaminKirigaya/My_Personal_Portfolio_.github.io/assets/104618775/72f556bd-cef8-4ae1-ba63-38779a75f1b8)
 
 
 ## Features Updated
